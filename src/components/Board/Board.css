@@ -1,0 +1,10 @@
+.Board {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+}
+
+.Board__row {
+  display: flex;
+  width: 100%;
+}
